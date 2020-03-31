@@ -1,0 +1,5 @@
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.Entidades\bin\Debug\Benjamin.PracticoMVC.Entidades.dll
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.Entidades\bin\Debug\Benjamin.PracticoMVC.Entidades.pdb
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.Entidades\obj\Debug\Benjamin.PracticoMVC.Entidades.csprojAssemblyReference.cache
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.Entidades\obj\Debug\Benjamin.PracticoMVC.Entidades.dll
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.Entidades\obj\Debug\Benjamin.PracticoMVC.Entidades.pdb

@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    ViewBag.Username = "Benjamin Correa";
+    ViewBag.Rol = "Administrador";
+}
+
+<button id="ejecuta">Ejecutar mensaje</button>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('#ejecuta').click(function () {
+            alertify.confirm('Ejecutar Proceso', '¿Seguro que desea ejecutar Proceso?', function () { alertify.success('Ejecutando') }
+                , function () { alertify.error('Cancelado') });
+            //alertify.alert("te hace falta llenar mas campos, por favor");
+            //alertify.error("fallo el servidor :(");
+            //alertify.success("este es un mensaje de exito ");
+        });
+    })
+</script>

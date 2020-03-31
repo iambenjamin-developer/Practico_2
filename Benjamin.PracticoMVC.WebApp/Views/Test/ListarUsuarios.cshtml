@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewBag.Title = "Usuarios";
+    ViewBag.Username = "Benjamin Correa";
+    ViewBag.Rol = "Administrador";
+}
+
+
+<div id="tablaResponsive">
+
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">ID</th>
+                <th scope="col">ID ROL</th>
+                <th scope="col">USUARIO</th>
+                <th scope="col">NOMBRE</th>
+                <th scope="col">APELLIDO</th>
+                <th scope="col">PASSWORD</th>
+                <th scope="col">PASSWORD SALT</th>
+                <th scope="col">FECHA DE CREACION</th>
+                <th scope="col">ACTIVO</th>
+
+            </tr>
+        </thead>
+        <tbody>
+
+            @{
+                //seteamos numero de fila en cero y luego haremos un contador dentro del foreach
+                int i = 0;
+
+                foreach (var usuario in ViewBag.listaUsuarios)
+                {
+                    //contador de filas
+                    i++;
+
+                    <tr>
+
+                        <th scope="row"> @i </th>
+                        <td>@usuario.Id</td>
+                        <td>@usuario.IdRol</td>
+                        <td>@usuario.Usuario</td>
+                        <td>@usuario.Nombre</td>
+                        <td>@usuario.Apellido</td>
+                        <td>@usuario.Password</td>
+                        <td>@usuario.PasswordSalt</td>
+                        <td>@usuario.FechaCreacion</td>
+                        <td>@usuario.Activo</td>
+
+
+                    </tr>
+                }
+
+            }
+
+        </tbody>
+    </table>
+
+
+</div>

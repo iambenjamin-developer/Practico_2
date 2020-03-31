@@ -1,0 +1,10 @@
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\bin\Debug\Benjamin.PracticoMVC.AccesoDatos.dll
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\bin\Debug\Benjamin.PracticoMVC.AccesoDatos.pdb
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\bin\Debug\Benjamin.PracticoMVC.Entidades.dll
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\bin\Debug\Benjamin.PracticoMVC.Entidades.pdb
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\obj\Debug\Benjamin.PracticoMVC.AccesoDatos.csprojAssemblyReference.cache
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\obj\Debug\Benjamin.PracticoMVC.AccesoDatos.csproj.CopyComplete
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\obj\Debug\Benjamin.PracticoMVC.AccesoDatos.dll
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\obj\Debug\Benjamin.PracticoMVC.AccesoDatos.pdb
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\bin\Debug\Dapper.dll
+Z:\EXTRADOS\Benjamin.PracticoMVC\Benjamin.PracticoMVC.AccesoDatos\bin\Debug\Dapper.xml
